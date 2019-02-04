@@ -1,0 +1,11 @@
+.list {
+  width: 100;
+}
+
+.link .link:link .link:hover .link:active .link:visited {
+  text-decoration: none !important;
+}
+
+.a {
+  text-decoration: none !important;
+}

@@ -1,2 +1,0 @@
-# Techinnovation
-Created with CodeSandbox
